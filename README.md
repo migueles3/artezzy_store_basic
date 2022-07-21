@@ -1,0 +1,1 @@
+# artezzy_store_basic
